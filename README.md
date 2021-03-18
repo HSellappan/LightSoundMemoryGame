@@ -6,7 +6,7 @@ Submitted by: Harold Sellappan
 
 Time spent: 3 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project:
 https://glitch.com/edit/#!/rocky-cumbersome-eel
 
 ## Required Functionality
