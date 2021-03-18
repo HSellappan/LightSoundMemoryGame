@@ -1,1 +1,91 @@
-# LightSoundMemoryGame
+# Pre-work - *Memory Game*
+
+**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+
+Submitted by: Harold Sellappan
+
+Time spent: 3 hours spent in total
+
+Link to project: (insert your link here, should start with https://glitch.com...)
+https://glitch.com/edit/#!/rocky-cumbersome-eel
+
+## Required Functionality
+
+The following **required** functionality is complete:
+
+* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [ ] Game buttons each light up and play a sound when clicked. 
+* [ ] Computer plays back sequence of clues including sound and visual cue for each button
+* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [ ] User wins the game after guessing a complete pattern
+* [ ] User loses the game after an incorrect guess
+
+The following **optional** features are implemented:
+
+* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [ ] More than 4 functional game buttons
+* [ ] Playback speeds up on each turn
+* [ ] Computer picks a different pattern each time the game is played
+* [ ] Game button appearance change goes beyond color (e.g. add an image)
+
+
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app!
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+https://cdn.glitch.com/5eb1191c-d1c6-44bf-8e2a-f0d4c0b3a788%2Frec2.gif?v=1616094438177
+
+
+## Reflection Questions
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+https://www.w3schools.com/jsref/jsref_push.asp
+https://metro.co.uk/wp-content/uploads/2019/03/SEI_54895638.jpg?quality=90&strip=all
+data:image/jpeg;base64,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
+Microsoft Paint
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
+The most challenging thing I encountered while making this project was resizing the pictures to fit within the square button. 
+In my project, I added images that are hidden but when the button is pressed, it is revealed. 
+I went and found images of funny faces, but it seemed like every time I linked it to the buttons, the pictures would be way too zoomed in or it would be too small. 
+I looked for software to help resizing but realized that I had Microsoft paint installed. I went to Microsoft paint and resized the image width and height to a value I thought would fit. 
+I uploaded it and linked it in the CSS file and found out that it did not fit. I repeated this cycle 5 times for each image until both images fit. This process took trial and error and was time consuming. 
+However, I was able to overcome this challenge because I was determined to fit the picture within the square button. I knew that this would be an addition that would spruce up the game and make it more unique. 
+In the end, it did make the game funnier and more interesting than before.
+
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
+Some questions I had regarding web development was that how would libraries such as React JS further improve my website? 
+Is the DOM a hidden internal structure that edits HTML code? How do frameworks play a role within websites? Does AWS simply host websites, or does it do more? How important is SQL to web development? 
+Can a programming language substitute in for JavaScript or is that the only language with the ability to add functionality to a website? Doe web development consist of both front-end and back-end or either or? 
+What languages are used in the back end of web development?
+
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
+If I had more time, I would have tried to add more color and animation to the header and paragraph text. 
+That would have made the page look exciting and colorful. I also would have added four more buttons to make it ten total buttons. 
+That would make the game very confusing and difficult because the user has to remember which button was lit up and when there are that many buttons, it gets difficult. 
+I definitely would’ve added a clock which ticks down the number of seconds a user has to guess the pattern. 
+I also would’ve added custom animal noise tunes to each button in order to customize it as that would make the project funny and interesting.
+
+
+
+## License
+
+    Copyright Harold Sellappan
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
