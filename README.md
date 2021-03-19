@@ -64,9 +64,12 @@ In the end, it did make the game funnier and more interesting than before.
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
 Some questions I had regarding web development was that how would libraries such as React JS further improve my website? 
-Is the DOM a hidden internal structure that edits HTML code? How do frameworks play a role within websites? Does AWS simply host websites, or does it do more? How important is SQL to web development? 
-Can a programming language substitute in for JavaScript or is that the only language with the ability to add functionality to a website? Doe web development consist of both front-end and back-end or either or? 
-What languages are used in the back end of web development?
+How do frameworks play a role within websites?  How important is SQL to web development? How many libraries does it take to create a website suitable for companies and other organizations?
+How are libraries and frameworks created?
+Does web development consist of both front-end and back-end or either or? 
+How can Python be used for back-end development?
+Is C or C++ widely used in back-end development?
+Are languages like R used in back-end developmennt or are they avoided in favor of more well known languages?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
