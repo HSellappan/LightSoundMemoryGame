@@ -47,9 +47,9 @@ https://cdn.glitch.com/5eb1191c-d1c6-44bf-8e2a-f0d4c0b3a788%2Frec2.gif?v=1616094
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-https://www.w3schools.com/jsref/jsref_push.asp
-https://metro.co.uk/wp-content/uploads/2019/03/SEI_54895638.jpg?quality=90&strip=all
-https://twitter.com/zachxfuller/status/1222998425647579136
+https://www.w3schools.com/jsref/jsref_push.asp,
+https://metro.co.uk/wp-content/uploads/2019/03/SEI_54895638.jpg?quality=90&strip=all,
+https://twitter.com/zachxfuller/status/1222998425647579136,
 Microsoft Paint
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
