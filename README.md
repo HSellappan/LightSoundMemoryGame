@@ -74,7 +74,7 @@ Are languages like Scala and Go used in back-end developmennt or are they avoide
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
 If I had more time, I would have tried to add more color and animation to the header and paragraph text. 
-That would have made the page look exciting and colorful. I also would have added four more buttons to make it ten total buttons. 
+That addition would have made the page look exciting and colorful. I also would have added four more buttons to make it ten total buttons. 
 That would make the game very confusing and add complexity because the user has to remember which button was lit up out of many similar buttons.
 I definitely would’ve added a clock which ticks down the number of seconds a user has to guess the pattern. 
 I also would’ve added custom animal noise tunes to each button in order to customize it as that would make the project funny and interesting.
