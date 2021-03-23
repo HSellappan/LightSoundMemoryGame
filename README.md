@@ -69,7 +69,7 @@ How are libraries and frameworks created?
 Does web development consist of both front-end and back-end or either or? 
 How can Python be used for back-end development?
 Is C or C++ widely used in back-end development?
-Are languages like Scala and Go used in back-end developmennt or are they avoided in favor of more well known languages?
+Are languages like Scala and Go used in back-end development or are they avoided in favor of more well known languages?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
